@@ -1,2 +1,2 @@
-Git is a version control system.look this file.Git is free software.
-this is second edit.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
